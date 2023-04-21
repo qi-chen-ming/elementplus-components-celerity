@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#app,
+.el-container,
+.el-menu {
+  height: 100%;
+}
+.ecc-components-show {
+  // margin: 32px;
+  padding: 0px 32px 0px;
+
+  .ecc-h1 {
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #eaecef;
+    font-size: 2em;
+    margin-bottom: 16px;
+    font-weight: 600;
+    line-height: 1.25;
+  }
+}

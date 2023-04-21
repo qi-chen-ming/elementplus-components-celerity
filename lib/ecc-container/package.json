@@ -1,0 +1,9 @@
+
+  {
+    "name":"ecc-container",
+    "main":"index.umd.cjs",
+    "module":"index.js",
+    "style":"style.css",
+    "types":"../../index.d.ts" 
+  }
+  

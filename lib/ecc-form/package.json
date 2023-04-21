@@ -1,0 +1,9 @@
+
+  {
+    "name":"ecc-form",
+    "main":"index.umd.cjs",
+    "module":"index.js",
+    "style":"style.css",
+    "types":"../../index.d.ts" 
+  }
+  

@@ -1,0 +1,27 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "include": [
+    "env.d.ts",
+    "src/**/*",
+    "src/**/*.vue",
+    "packages/**/*",
+    "lib/index.js",
+    "lib/style.css",
+    "lib/ecc-form/index.js"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "preserveValueImports": false,
+    "importsNotUsedAsValues": "preserve",
+    "lib": ["dom", "es5", "es2015.promise", "es2015", "es2017", "ES2019"]
+  },
+
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    }
+  ]
+}
