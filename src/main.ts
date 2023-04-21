@@ -12,7 +12,8 @@ import 'element-plus/dist/index.css';
 // import '../lib/style.css';
 
 // 按需引入
-// import eccModalForm from '../lib/ecc-modalForm';
+// import eccMenu from '../lib/ecc-menu';
+// import '../lib/ecc-menu/style.css';
 
 // 本地引入
 import ecc from '../packages';
@@ -41,6 +42,6 @@ for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
 app.use(router);
 app.use(ElementPlus);
 app.use(ecc);
-// app.use(eccModalForm);
+// app.use(eccMenu);
 app.use(VMdPreview);
 app.mount('#app');

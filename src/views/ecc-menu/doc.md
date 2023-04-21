@@ -5,7 +5,7 @@
 ## 按需引入
 
 ```js
-import menu from 'elementplus-components-celerity/ecc-menu';
+import menu from 'elementplus-components-celerity/lib/ecc-menu';
 
 app.use(menu);
 ```

@@ -1,11 +1,11 @@
-import{d as Xe,e as v,h as Qe,j as Ye,c as Ze,a as F,b as T,w as A,u as E,i as et,F as tt,r as B,p as nt,k as rt,o as ot,t as V,f as I,_ as st}from"./index-86a24d6b.js";const it=`# 表格\r
+import{d as Xe,e as v,h as Qe,j as Ye,c as Ze,a as F,b as T,w as A,u as E,i as et,F as tt,r as B,p as nt,k as rt,o as ot,t as V,f as I,_ as st}from"./index-c2d5b797.js";const it=`# 表格\r
 \r
 可配置型表格,支持更多自定义\r
 \r
 ## 按需引入\r
 \r
 \`\`\`js\r
-import table from 'elementplus-components-celerity/ecc-table';\r
+import table from 'elementplus-components-celerity/lib/ecc-table';\r
 \r
 app.use(table);\r
 \`\`\`\r

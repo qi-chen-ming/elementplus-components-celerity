@@ -1,12 +1,12 @@
-import{d as m,c as p,a as o,b as n,w as d,u as t,F as u,r as c,o as g}from"./index-86a24d6b.js";const v=`# 通知菜单\r
+import{d as m,c as p,a as o,b as n,w as d,u as t,F as u,r as c,o as g}from"./index-c2d5b797.js";const v=`# 通知菜单\r
 \r
 显示通知菜单列表,支持多种自定义\r
 \r
 ## 按需引入\r
 \r
 \`\`\`js\r
-import notifiction from 'elementplus-components-celerity/ecc-notifiction';\r
-import 'elementplus-components-celerity/ecc-notifiction/style.css';\r
+import notifiction from 'elementplus-components-celerity/lib/ecc-notifiction';\r
+import 'elementplus-components-celerity/lib/ecc-notifiction/style.css';\r
 \r
 app.use(notifiction);\r
 \`\`\`\r

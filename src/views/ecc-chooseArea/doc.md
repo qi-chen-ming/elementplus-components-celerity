@@ -6,7 +6,7 @@
 
 ```js
 // main.ts
-import chooseArea from 'elementplus-components-celerity/ecc-chooseArea';
+import chooseArea from 'elementplus-components-celerity/lib/ecc-chooseArea';
 
 app.use(chooseArea);
 ```

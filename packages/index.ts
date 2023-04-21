@@ -5,7 +5,6 @@ import list from './ecc-list';
 import menu from './ecc-menu';
 import chooseTime from './ecc-chooseTime';
 import chooseDate from './ecc-chooseDate';
-import progress from './ecc-progress';
 import chooseCity from './ecc-chooseCity';
 import form from './ecc-form';
 import modalForm from './ecc-modalForm';
@@ -23,7 +22,6 @@ const components = [
   chooseTime,
   chooseDate,
   chooseCity,
-  progress,
   form,
   modalForm,
   container,

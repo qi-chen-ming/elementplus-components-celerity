@@ -5,8 +5,8 @@
 ## 按需引入
 
 ```js
-import chooseDate from 'elementplus-components-celerity/ecc-chooseDate';
-import chooseTime from 'elementplus-components-celerity/ecc-chooseTime';
+import chooseDate from 'elementplus-components-celerity/lib/ecc-chooseDate';
+import chooseTime from 'elementplus-components-celerity/lib/ecc-chooseTime';
 
 app.use(chooseDate);
 app.use(chooseTime);

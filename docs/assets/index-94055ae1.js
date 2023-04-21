@@ -1,11 +1,11 @@
-import{d as _,e as r,c as h,a as l,b as i,w as s,u as v,F as f,r as o,o as g,f as a}from"./index-86a24d6b.js";const T=`# 步骤\r
+import{d as _,e as r,c as h,a as l,b as i,w as s,u as v,F as f,r as o,o as g,f as a}from"./index-c2d5b797.js";const T=`# 步骤\r
 \r
 用于展示工作流程的组件\r
 \r
 ## 按需引入\r
 \r
 \`\`\`js\r
-import table from 'elementplus-components-celerity/ecc-step';\r
+import table from 'elementplus-components-celerity/lib/ecc-step';\r
 \r
 app.use(table);\r
 \`\`\`\r

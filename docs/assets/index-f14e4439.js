@@ -1,11 +1,11 @@
-import{d as k,e as C,c as O,a as i,b as o,w as l,u as r,F as B,r as s,o as L,f as c,E as a,g as R}from"./index-86a24d6b.js";const q=`# 表单\r
+import{d as k,e as C,c as O,a as i,b as o,w as l,u as r,F as B,r as s,o as L,f as c,E as a,g as R}from"./index-c2d5b797.js";const q=`# 表单\r
 \r
 可配置型表单,支持多种自定义\r
 \r
 ## 按需引入\r
 \r
 \`\`\`js\r
-import form from 'elementplus-components-celerity/ecc-form';\r
+import form from 'elementplus-components-celerity/lib/ecc-form';\r
 \r
 app.use(form);\r
 \`\`\`\r

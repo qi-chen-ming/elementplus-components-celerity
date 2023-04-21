@@ -22,9 +22,10 @@ import { createApp } from 'vue';
 import App from './App.vue';
 
 import ecc from 'elementplus-components-celerity';
-import 'elementplus-components-celerity/style.css';
+import 'elementplus-components-celerity/lib/style.css';
 
 import ElementPlus from 'element-plus';
+import 'element-plus/dist/index.css';
 import * as ElementPlusIconsVue from '@element-plus/icons-vue';
 
 const app = createApp(App);
@@ -41,8 +42,8 @@ app.mount('#app');
 ## 按需引用
 
 ```javascript
-import eccChooseCity from 'elementplus-components-celerity/ecc-chooseCity';
-import 'elementplus-components-celerity/ecc-chooseCity/style.css';
+import eccChooseCity from 'elementplus-components-celerity/lib/ecc-chooseCity';
+import 'elementplus-components-celerity/lib/ecc-chooseCity/style.css';
 
 app.use(eccChooseCity);
 ```

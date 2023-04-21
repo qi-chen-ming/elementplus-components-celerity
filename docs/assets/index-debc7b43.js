@@ -1,4 +1,4 @@
-import{d as l,c as m,a as c,b as n,u as r,F as h,r as o,o as i}from"./index-86a24d6b.js";const p=`# 省市区选择\r
+import{d as l,c as m,a as c,b as n,u as r,F as h,r as o,o as i}from"./index-c2d5b797.js";const p=`# 省市区选择\r
 \r
 通过下拉框实现省市区三级联动\r
 \r
@@ -6,7 +6,7 @@ import{d as l,c as m,a as c,b as n,u as r,F as h,r as o,o as i}from"./index-86a2
 \r
 \`\`\`js\r
 // main.ts\r
-import chooseArea from 'elementplus-components-celerity/ecc-chooseArea';\r
+import chooseArea from 'elementplus-components-celerity/lib/ecc-chooseArea';\r
 \r
 app.use(chooseArea);\r
 \`\`\`\r

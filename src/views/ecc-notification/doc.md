@@ -5,8 +5,8 @@
 ## 按需引入
 
 ```js
-import notifiction from 'elementplus-components-celerity/ecc-notifiction';
-import 'elementplus-components-celerity/ecc-notifiction/style.css';
+import notifiction from 'elementplus-components-celerity/lib/ecc-notifiction';
+import 'elementplus-components-celerity/lib/ecc-notifiction/style.css';
 
 app.use(notifiction);
 ```

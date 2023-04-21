@@ -1,12 +1,12 @@
-import{d as m,c as p,a as t,b as r,u as e,F as _,r as o,o as C}from"./index-86a24d6b.js";const u=`# 时间选择\r
+import{d as m,c as p,a as t,b as r,u as e,F as _,r as o,o as C}from"./index-c2d5b797.js";const u=`# 时间选择\r
 \r
 提供开始时间和结束时间选择联动\r
 \r
 ## 按需引入\r
 \r
 \`\`\`js\r
-import chooseDate from 'elementplus-components-celerity/ecc-chooseDate';\r
-import chooseTime from 'elementplus-components-celerity/ecc-chooseTime';\r
+import chooseDate from 'elementplus-components-celerity/lib/ecc-chooseDate';\r
+import chooseTime from 'elementplus-components-celerity/lib/ecc-chooseTime';\r
 \r
 app.use(chooseDate);\r
 app.use(chooseTime);\r

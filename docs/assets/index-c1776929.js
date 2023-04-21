@@ -1,10 +1,10 @@
-import{d as t,c as s,a as r,b as e,u as i,F as m,r as n,o as a}from"./index-86a24d6b.js";const l=`# 城市选择\r
+import{d as t,c as s,a as r,b as e,u as i,F as m,r as n,o as l}from"./index-c2d5b797.js";const a=`# 城市选择\r
 \r
 提供按城市和省份选择中国所有的城市,支持搜索和跳转\r
 \r
 \`\`\`js\r
-import chooseCity from 'elementplus-components-celerity/ecc-chooseCity';\r
-import 'elementplus-components-celerity/ecc-chooseCity/style.css';\r
+import chooseCity from 'elementplus-components-celerity/lib/ecc-chooseCity';\r
+import 'elementplus-components-celerity/lib/ecc-chooseCity/style.css';\r
 \r
 app.use(chooseCity);\r
 \`\`\`\r
@@ -31,4 +31,4 @@ app.use(chooseCity);\r
 | id    | 城市编码 | number |\r
 | spell | 城市拼音 | string |\r
 | name  | 城市名称 | string |\r
-`,p={class:"ecc-components-show"},h=r("h1",{class:"ecc-h1"},"组件示例",-1),v=t({__name:"index",setup(_){return(y,u)=>{const c=n("ecc-choose-city"),o=n("v-md-preview");return a(),s(m,null,[r("div",p,[h,e(c)]),e(o,{text:i(l)},null,8,["text"])],64)}}});export{v as default};
+`,p={class:"ecc-components-show"},h=r("h1",{class:"ecc-h1"},"组件示例",-1),v=t({__name:"index",setup(_){return(y,u)=>{const c=n("ecc-choose-city"),o=n("v-md-preview");return l(),s(m,null,[r("div",p,[h,e(c)]),e(o,{text:i(a)},null,8,["text"])],64)}}});export{v as default};

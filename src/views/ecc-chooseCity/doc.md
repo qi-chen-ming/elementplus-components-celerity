@@ -3,8 +3,8 @@
 提供按城市和省份选择中国所有的城市,支持搜索和跳转
 
 ```js
-import chooseCity from 'elementplus-components-celerity/ecc-chooseCity';
-import 'elementplus-components-celerity/ecc-chooseCity/style.css';
+import chooseCity from 'elementplus-components-celerity/lib/ecc-chooseCity';
+import 'elementplus-components-celerity/lib/ecc-chooseCity/style.css';
 
 app.use(chooseCity);
 ```

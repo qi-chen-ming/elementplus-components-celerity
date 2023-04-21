@@ -5,7 +5,7 @@
 ## 按需引入
 
 ```js
-import form from 'elementplus-components-celerity/ecc-form';
+import form from 'elementplus-components-celerity/lib/ecc-form';
 
 app.use(form);
 ```

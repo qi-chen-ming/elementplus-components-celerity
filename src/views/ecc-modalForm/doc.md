@@ -5,7 +5,7 @@ dialog 弹出框集成表单组件
 ## 按需引入
 
 ```js
-import modalForm from 'elementplus-components-celerity/ecc-modalForm';
+import modalForm from 'elementplus-components-celerity/lib/ecc-modalForm';
 
 app.use(modalForm);
 ```

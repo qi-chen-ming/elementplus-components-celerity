@@ -5,7 +5,7 @@
 ## 按需引入
 
 ```js
-import table from 'elementplus-components-celerity/ecc-step';
+import table from 'elementplus-components-celerity/lib/ecc-step';
 
 app.use(table);
 ```
