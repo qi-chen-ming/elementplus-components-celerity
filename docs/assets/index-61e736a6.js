@@ -1,4 +1,4 @@
-import{d as k,e as x,c as F,a as i,b as t,w as r,u as l,i as w,F as C,r as p,o as L,f as a,E as u}from"./index-cb92fd23.js";const q=`# 弹出框表单\r
+import{d as k,e as x,c as F,a as i,b as t,w as r,u as l,i as w,F as C,r as p,o as L,f as a,E as u}from"./index-86a24d6b.js";const q=`# 弹出框表单\r
 \r
 dialog 弹出框集成表单组件\r
 \r

@@ -1,4 +1,4 @@
-import{d as k,e as C,c as O,a as i,b as o,w as l,u as r,F as B,r as s,o as L,f as c,E as a,g as R}from"./index-cb92fd23.js";const q=`# 表单\r
+import{d as k,e as C,c as O,a as i,b as o,w as l,u as r,F as B,r as s,o as L,f as c,E as a,g as R}from"./index-86a24d6b.js";const q=`# 表单\r
 \r
 可配置型表单,支持多种自定义\r
 \r

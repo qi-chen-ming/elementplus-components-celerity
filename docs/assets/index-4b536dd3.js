@@ -1,4 +1,4 @@
-import{d as m,c as s,a as n,b as e,u as c,F as l,r as t,o as u}from"./index-cb92fd23.js";const _=`# 导航菜单\r
+import{d as m,c as s,a as n,b as e,u as c,F as l,r as t,o as u}from"./index-86a24d6b.js";const _=`# 导航菜单\r
 \r
 侧边栏菜单,支持无限层级\r
 \r
