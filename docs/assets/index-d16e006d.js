@@ -1,4 +1,4 @@
-import{d as Xe,e as v,h as Qe,j as Ye,c as Ze,a as F,b as T,w as A,u as E,i as et,F as tt,r as B,p as nt,k as rt,o as ot,t as V,f as I,_ as st}from"./index-ae37e2ab.js";const it=`# 表格\r
+import{d as Xe,e as v,h as Qe,j as Ye,c as Ze,a as F,b as T,w as A,u as E,i as et,F as tt,r as B,p as nt,k as rt,o as ot,t as V,f as I,_ as st}from"./index-cb92fd23.js";const it=`# 表格\r
 \r
 可配置型表格,支持更多自定义\r
 \r
@@ -71,7 +71,7 @@ app.use(table);\r
 </ecc-table>\r
 \`\`\`\r
 \r
-详细代码请查看[这里]()\r
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-table/index.vue)\r
 \r
 ## Props\r
 \r

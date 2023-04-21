@@ -1,4 +1,4 @@
-import{d as _,e as r,c as v,a as l,b as o,w as s,u as h,F as f,r as i,o as g,f as a}from"./index-ae37e2ab.js";const T=`# 步骤\r
+import{d as _,e as r,c as h,a as l,b as i,w as s,u as v,F as f,r as o,o as g,f as a}from"./index-cb92fd23.js";const T=`# 步骤\r
 \r
 用于展示工作流程的组件\r
 \r
@@ -26,7 +26,7 @@ app.use(table);\r
 </ecc-step>\r
 \`\`\`\r
 \r
-详细代码请查看[这里]()\r
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-step/index.vue)\r
 \r
 ## Props 继承 element-plus el-steps/el-step 提供的属性\r
 \r
@@ -56,4 +56,4 @@ app.use(table);\r
 | 事件名   | 说明                 | 返回值     |\r
 | :------- | :------------------- | :--------- |\r
 | complete | 最后一步按钮点击事件 | 当前步骤值 |\r
-`,S={class:"ecc-components-show"},N=l("h1",{class:"ecc-h1"},"组件示例",-1),k=a("第一步"),x=a("第二步骤"),w=a("第三步骤"),B=_({__name:"index",setup(A){const e=r(0),p=r("企业信息填写完成，等待提交认证资料，经*****平台审核通过后即可办理业务"),n=t=>{switch(t.params){case 1:e.value+=1;break;case 2:e.value+=1;break;case 3:e.value+=2;break;case 4:console.log(22222222222);break}},c=t=>{switch(t.params){case 2:e.value-=1;break;case 3:e.value-=1;break;case 4:console.log(111111111);break}},m=()=>{e.value=0},u=r([{id:1,title:"创建账户",slotName:"first",btnArr:[{btnTitle:"下一步",params:1,fn:n}]},{id:2,title:"填写基础信息",slotName:"second",btnArr:[{btnTitle:"上一步",params:2,fn:c},{btnTitle:"下一步",params:2,fn:n}]},{id:3,title:"填写用户信息",slotName:"third",btnArr:[{btnTitle:"上一步",params:3,fn:c},{btnTitle:"下一步",params:3,fn:n}]},{id:4,title:"注册成功"}]);return(t,D)=>{const d=i("ecc-step"),b=i("v-md-preview");return g(),v(f,null,[l("div",S,[N,o(d,{style:{"min-height":"100px"},stepData:u.value,active:e.value,successTitle:p.value,onComplete:m},{first:s(()=>[k]),second:s(()=>[x]),third:s(()=>[w]),_:1},8,["stepData","active","successTitle"])]),o(b,{text:h(T)},null,8,["text"])],64)}}});export{B as default};
+`,S={class:"ecc-components-show"},x=l("h1",{class:"ecc-h1"},"组件示例",-1),N=a("第一步"),k=a("第二步骤"),w=a("第三步骤"),B=_({__name:"index",setup(A){const e=r(0),p=r("企业信息填写完成，等待提交认证资料，经*****平台审核通过后即可办理业务"),n=t=>{switch(t.params){case 1:e.value+=1;break;case 2:e.value+=1;break;case 3:e.value+=2;break;case 4:console.log(22222222222);break}},c=t=>{switch(t.params){case 2:e.value-=1;break;case 3:e.value-=1;break;case 4:console.log(111111111);break}},m=()=>{e.value=0},u=r([{id:1,title:"创建账户",slotName:"first",btnArr:[{btnTitle:"下一步",params:1,fn:n}]},{id:2,title:"填写基础信息",slotName:"second",btnArr:[{btnTitle:"上一步",params:2,fn:c},{btnTitle:"下一步",params:2,fn:n}]},{id:3,title:"填写用户信息",slotName:"third",btnArr:[{btnTitle:"上一步",params:3,fn:c},{btnTitle:"下一步",params:3,fn:n}]},{id:4,title:"注册成功"}]);return(t,D)=>{const b=o("ecc-step"),d=o("v-md-preview");return g(),h(f,null,[l("div",S,[x,i(b,{style:{"min-height":"100px"},stepData:u.value,active:e.value,successTitle:p.value,onComplete:m},{first:s(()=>[N]),second:s(()=>[k]),third:s(()=>[w]),_:1},8,["stepData","active","successTitle"])]),i(d,{text:v(T)},null,8,["text"])],64)}}});export{B as default};

@@ -15,7 +15,7 @@ app.use(chooseCity);
 <m-choose-city></m-choose-city>
 ```
 
-详细代码请查看[这里]()
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-chooseCity/index.vue)
 
 ## Props
 

@@ -1,4 +1,4 @@
-import{d as l,c as m,a,b as n,u as r,F as h,r as o,o as p}from"./index-ae37e2ab.js";const _=`# 省市区选择\r
+import{d as l,c as m,a as c,b as n,u as r,F as h,r as o,o as i}from"./index-cb92fd23.js";const p=`# 省市区选择\r
 \r
 通过下拉框实现省市区三级联动\r
 \r
@@ -17,7 +17,7 @@ app.use(chooseArea);\r
 <ecc-choose-area @change="changeArea"></ecc-choose-area>\r
 \`\`\`\r
 \r
-详细代码请查看[这里]()\r
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-chooseArea/index.vue)\r
 \r
 ## Api\r
 \r
@@ -39,4 +39,4 @@ app.use(chooseArea);\r
 | :--- | ---- | ------ |\r
 | name | 名字 | string |\r
 | code | 编码 | number |\r
-`,i={class:"ecc-components-show"},u=a("h1",{class:"ecc-h1"},"组件示例",-1),f=l({__name:"index",setup(d){let c=e=>{console.log(e)};return(e,v)=>{const s=o("ecc-choose-area"),t=o("v-md-preview");return p(),m(h,null,[a("div",i,[u,n(s,{onChange:r(c)},null,8,["onChange"])]),n(t,{text:r(_)},null,8,["text"])],64)}}});export{f as default};
+`,_={class:"ecc-components-show"},u=c("h1",{class:"ecc-h1"},"组件示例",-1),A=l({__name:"index",setup(d){let a=e=>{console.log(e)};return(e,v)=>{const s=o("ecc-choose-area"),t=o("v-md-preview");return i(),m(h,null,[c("div",_,[u,n(s,{onChange:r(a)},null,8,["onChange"])]),n(t,{text:r(p)},null,8,["text"])],64)}}});export{A as default};

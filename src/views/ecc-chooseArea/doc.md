@@ -17,7 +17,7 @@ app.use(chooseArea);
 <ecc-choose-area @change="changeArea"></ecc-choose-area>
 ```
 
-详细代码请查看[这里]()
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-chooseArea/index.vue)
 
 ## Api
 

@@ -26,7 +26,7 @@ app.use(table);
 </ecc-step>
 ```
 
-详细代码请查看[这里]()
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-step/index.vue)
 
 ## Props 继承 element-plus el-steps/el-step 提供的属性
 

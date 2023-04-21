@@ -71,7 +71,7 @@ app.use(table);
 </ecc-table>
 ```
 
-详细代码请查看[这里]()
+详细代码请查看[这里](https://github.com/qi-chen-ming/elementplus-components-celerity/blob/main/src/views/ecc-table/index.vue)
 
 ## Props
 
